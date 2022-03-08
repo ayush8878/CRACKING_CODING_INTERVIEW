@@ -1,4 +1,4 @@
-package src.src.ArraysAndString;
+package src.com.ayush.code.ArraysAndString;
 
 public class RotateMatrixOptimized {
     public static void rotateMatrix(int[][] matrix)

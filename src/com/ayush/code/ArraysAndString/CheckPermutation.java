@@ -1,4 +1,4 @@
-package src.src.ArraysAndString;
+package src.com.ayush.code.ArraysAndString;
 
 import java.util.Arrays;
 

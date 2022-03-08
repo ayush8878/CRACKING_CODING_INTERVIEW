@@ -1,4 +1,4 @@
-package src.src.utils;
+package src.com.ayush.code.utils;
 
 public class Node {
     private int data;

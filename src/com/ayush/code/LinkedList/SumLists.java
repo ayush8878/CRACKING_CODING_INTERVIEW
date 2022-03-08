@@ -1,4 +1,4 @@
-package src.src.LinkedList;
+package src.com.ayush.code.LinkedList;
 
 import utils.Node;
 
