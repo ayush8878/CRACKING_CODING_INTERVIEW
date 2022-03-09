@@ -1,6 +1,6 @@
 package src.com.ayush.code.LinkedList;
 
-import utils.Node;
+import src.com.ayush.code.utils.Node;
 
 public class PalindromeReverse {
 

@@ -39,7 +39,7 @@ class BitProgramming
             }
             case "xor":
             {
-                xor(n);
+                //xor(n);
                 break;
             }
         }
