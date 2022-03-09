@@ -1,4 +1,4 @@
-package src.com.ayush.code;
+package src.com.ayush.code.StacksAndQueues;
 
 import src.com.ayush.code.utils.StackWithMin;
 
