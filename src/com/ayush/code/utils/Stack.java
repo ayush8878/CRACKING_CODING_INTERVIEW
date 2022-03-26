@@ -19,13 +19,17 @@ public class Stack<T> {
 
     public void push(T t)
     {
+        StackNode<T> tStackNode = new StackNode<>(t);
         if(top == null)
         {
-            top = new StackNode<T>(t);
+            top = tStackNode;
         }
-        top.setNext(new StackNode<>(t));
-        top = top.getNext();
-    }
+        else {
+            StackNode<T> temp = top;
+            top = tStackNode;
+            top.setNext(temp);
+        }
+        }
 
     public T peek()
     {
